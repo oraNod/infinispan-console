@@ -1,0 +1,23 @@
+title: {brandname} Web Console
+
+Welcome to the {brandname} web console.
+
+Access your data and manage {brandname} deployments.
+
+button text: Open the Console
+
+Client Downloads
+Remotely connect to {brandname} with client applications.
+
+Available in different programming languages from Infinispan community/Red Hat customer portal.
+
+Documentation
+Find out how to set up, configure, and monitor {brandname} servers.
+
+Check out the Infinispan documentation./Visit the Red Hat Data Grid documentation.
+
+Code Tutorials
+Develop applications to use {brandname} for in-memory storage in a variety of
+use cases.
+
+See our simple tutorials that demonstrate how to write code for {brandname}.
