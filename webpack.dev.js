@@ -17,7 +17,8 @@ module.exports = merge(common, {
     historyApiFallback: true,
     hot: true,
     overlay: true,
-    open: true
+    open: true,
+    openPage: 'console/'
   },
   module: {
     rules: [

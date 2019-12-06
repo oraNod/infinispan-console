@@ -83,7 +83,7 @@ const routes: IAppRoute[] = [
     exact: true,
     icon: <ServerGroupIcon/>,
     label: 'Infinispan Server',
-    path: '/server',
+    path: '/',
     title: 'Infinispan Server',
     menu: true
   },
@@ -92,7 +92,7 @@ const routes: IAppRoute[] = [
     exact: true,
     icon: <VolumeIcon/>,
     label: 'Data container',
-    path: '/',
+    path: '/container',
     title: 'Data container',
     menu: true
   },

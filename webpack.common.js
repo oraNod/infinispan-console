@@ -12,10 +12,6 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, 'src', 'index.html'),
       filename: 'index.html'
-    }),
-    new HtmlWebpackPlugin({
-      template: path.resolve(__dirname, 'src', 'welcome.html'),
-      filename: 'welcome.html'
     })
   ],
   module: {
