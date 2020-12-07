@@ -40,7 +40,7 @@
     "ignored-status" : "Ignored",
     "delete" : "Delete",
     "clear-all-button" : "Clear all",
-    "no-caches-status" : "There are no caches.",
+    "no-caches-status" : "No caches found",
     "mode-local" : "Local",
     "mode-repl" : "Replicated",
     "mode-dist" : "Distributed",
@@ -71,7 +71,7 @@
     "concurrency-level" : "Concurrency level:",
     "storage" : "Storage",
     "counter-configuration" : "Configuration",
-    "no-counters-status" : "There are no counters",
+    "no-counters-status" : "No counters found",
     "tasks-table-label" : "Tasks",
     "task-name" : "Name",
     "task-type" : "Type",
@@ -80,8 +80,8 @@
     "parameters" : "Parameters",
     "allowed-role" : "Allowed role",
     "allowed-role-null" : "-",
-    "no-tasks-status" : "There are no tasks",
-    "no-tasks-body" : "Create one using REST endpoint, HotRod or the CLI"
+    "no-tasks-status" : "No tasks found",
+    "no-tasks-body" : "Create one using REST endpoint, HotRod, or the CLI"
   },
   "caches" : {
     "configuration" : {
